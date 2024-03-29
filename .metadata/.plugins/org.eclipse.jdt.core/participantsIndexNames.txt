@@ -1,0 +1,27 @@
+INDEX VERSION 1.131
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2382729289.index
+\struts-example-convention\src\main\java
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2851266013.index
+\struts-example-annotation\src\main\java
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\773524570.index
+\struts-example-validation\src\main\java
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2755552936.index
+\struts-example-validation\src\main\java
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3692602638.index
+\struts-example-bean\src\main\java
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2728470774.index
+\struts-example-basic\src\main\java
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1900120237.index
+\struts-example-convention\src\main\java
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4233624835.index
+\struts-example-valuestack\src\main\java
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1423852125.index
+\struts-example-annotation\src\main\java
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2367012084.index
+\struts-studentapp-all\src\main\java
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3267984017.index
+\struts-studentapp-all\src\main\java
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2596607956.index
+\struts-studentapp-bean\src\main\java
+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\926998596.index
+\struts-example-valuestack\src\main\java

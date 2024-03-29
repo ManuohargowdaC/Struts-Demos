@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    <%@ taglib prefix="s" uri="/struts-tag" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<s:form action="show">
+	<s:textfield name="employee.employeeName" lable="EmployeeName"></s:textfield><br>
+	<s:textfield name="employee.employeeId" lable="EmployeeId"></s:textfield>
+	<s:submit value="submit"></s:submit>
+</s:form>
+</body>
+</html>

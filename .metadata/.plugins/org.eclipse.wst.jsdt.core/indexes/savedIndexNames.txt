@@ -1,0 +1,22 @@
+INDEX VERSION 1.4+C:\Users\manohara.c\Training\StrutsDemos\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4031645342.index
+3366347522.index
+1423852125.index
+78035025.index
+2755552936.index
+4233624835.index
+2728470774.index
+2851266013.index
+2728470774.index
+3267984017.index
+3692602638.index
+3692602638.index
+2367012084.index
+773524570.index
+1802004676.index
+773524570.index
+3595477464.index
+926998596.index
+979188037.index
+2596607956.index
+3310382651.index

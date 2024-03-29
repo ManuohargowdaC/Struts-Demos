@@ -1,0 +1,5 @@
+package caom.struts2.actions;
+
+public class LoginAction {
+
+}

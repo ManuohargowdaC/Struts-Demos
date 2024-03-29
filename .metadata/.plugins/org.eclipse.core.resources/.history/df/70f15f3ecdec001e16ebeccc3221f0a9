@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE validators PUBLIC "-//Apache Struts//XWork Validator 1.0//EN" "http://struts.apache.org/dtds/xwork-validator-1.0.dtd">
+<validators>
+    <field name="student.name">
+        <field-validator type="requiredstring">
+            <message>You must enter a name.</message>
+        </field-validator>
+    </field>
+    <field name="age">
+        <field-validator type="int">
+            <message>Age should be between 20 to 70</message>
+        </field-validator>
+    </field>
+    <field name="student.email">
+        <field-validator type="email">
+            <message>You must enter a Email.</message>
+        </field-validator>
+    </field>
+    <field name="student.stifound">
+        <field-validator type="double">
+            <message>You must enter a stipend Amount.</message>
+        </field-validator>
+    </field>
+    <field name="student.name">
+        <field-validator type="requiredstring">
+            <message>You must enter a name.</message>
+        </field-validator>
+    </field>
+</validators>

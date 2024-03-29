@@ -1,0 +1,5 @@
+package caom.struts2.model;
+
+public class User {
+
+}

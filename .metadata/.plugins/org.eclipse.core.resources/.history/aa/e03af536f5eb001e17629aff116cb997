@@ -1,0 +1,10 @@
+package caom.struts2.actions;
+
+import com.opensymphony.xwork2.ActionSupport;
+
+import caom.struts2.model.User;
+
+public class LoginAction extends ActionSupport{
+	private User user;
+
+}
